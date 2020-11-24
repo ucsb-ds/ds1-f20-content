@@ -1,0 +1,13 @@
+test = {   'name': 'q2_1_1',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> distance(np.array([0,1]), np.array([0,0])) - 1 < .00001\nTrue', 'hidden': False, 'locked': False},
+                                   {   'code': '>>> distance(np.array([3,4]), np.array([6,9])) - np.sqrt(np.sum((np.array([3,4]) - np.array([6,9]))**2)) < .00001\nTrue',
+                                       'hidden': False,
+                                       'locked': False},
+                                   {   'code': '>>> distance(np.array([10,20]), np.array([-2,-4])) - np.sqrt(np.sum((np.array([10,20]) - np.array([-2,-4]))**2)) < .00001\nTrue',
+                                       'hidden': False,
+                                       'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
