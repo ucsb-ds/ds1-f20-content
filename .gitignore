@@ -1,4 +1,5 @@
 .DS_Store
+.OTTER_LOG
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
